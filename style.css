@@ -12,6 +12,22 @@ main-content{
 
 quiz-section{
     background-color: lightblue;
-    border: 10px;
+    border: 2px;
+    margin: 10px;
+    font-family: arial;
+}
+
+.th{
+    background-color: lightgrey;
+    color: white;
+    font-style: strong;
+    font-family: arial;
+}
+
+footer{
+    background-color: grey;
+    color: white;
+    text-align: center;
+    font-family: arial;
 }
 
