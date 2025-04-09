@@ -1,0 +1,3 @@
+Thanks to the preclass and in-class assignments from yesterday I found the project easy as i was able to identify the changes needed and the html file was already created with id's for all the major sections of the website. 
+The way I went through the project was comparing the hmtl website to the screen shot and noticing all the differences. Once I made a mental list, I tried to find the simplest ways to solve the problems, working my way from the top of the website to the bottom.
+I mainly used text-align, background-color, and font-family to complete this assignment. The main problem I faced was not being able to see my progress on the website as I had problems connecting the CSS and HTML file as of writing the reflection. 
